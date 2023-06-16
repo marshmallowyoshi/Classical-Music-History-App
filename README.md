@@ -4,7 +4,6 @@ To launch the plotly dash app containing the visualisation:
 
 1. install requirements from requirements.txt using
 	pip install -r requirements.txt
-in the 'dash' folder
 
 2. Run the app using
 	python app.py
