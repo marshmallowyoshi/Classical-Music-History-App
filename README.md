@@ -1,5 +1,7 @@
 # Classical-Music-History-App
 
+App available online at: https://yoshimallo.pythonanywhere.com/
+
 To launch the plotly dash app containing the visualisation:
 
 1. install requirements from requirements.txt using
